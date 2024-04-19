@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/emadef1/GAN_GRID/tree/main">
-    <img src="figures/logo.png" alt="Logo" width="150" height="150">
+    <img src="Figures/logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h1 align="center">FaultGuard</h1>
