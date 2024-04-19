@@ -69,4 +69,3 @@ pip install -r requirements.txt
 <p align="right"><a href="#top">(back to top)</a></p>
 <div id="models"></div>
 
-<p align="right"><a href="#top">(back to top)</a></p>
