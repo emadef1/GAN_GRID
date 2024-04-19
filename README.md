@@ -7,7 +7,7 @@
     <img src="Figures/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">FaultGuard</h1>
+  <h1 align="center">GAN_GRID</h1>
 
   <p align="center">
     GAN-GRID: A Novel Adversarial Attack on Smart Grid Stability Prediction
