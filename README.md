@@ -12,7 +12,7 @@
   <p align="center">
     GAN-GRID: A Novel Adversarial Attack on Smart Grid Stability Prediction
     <br />
-    <a href="https://github.com/emadef1/GAN_GRID/tree/main"><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/pdf/2405.12076"><strong>Preprint Available»</strong></a>
     <br />
     <br />
     <a href="">Anonymous Authors</a>
