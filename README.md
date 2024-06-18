@@ -15,7 +15,15 @@
     <a href="https://arxiv.org/pdf/2405.12076"><strong>Preprint Available»</strong></a>
     <br />
     <br />
-    <a href="">Anonymous Authors</a>
+    <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
+    ·
+    <a href="https://www.math.unipd.it/~abrighen/">Alessandro Brighente</a>
+    ·
+    <a href="https://www.dei.unipd.it/persona/95DDDDA0C518D43822ADC0338BD38073">Mirco Rampazzo</a>
+    .
+    <a href="?????">Nahal Azadi</a>
+    ·
+    <a href="https://www.math.unipd.it/~conti/">Mauro Conti</a>
   </p>
 </div>
 
