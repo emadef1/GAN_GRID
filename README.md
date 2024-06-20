@@ -32,7 +32,7 @@
 
 ## 🗣️ Citation
 
-Please, cite this work when referring to FaultGuard.
+Please, cite this work when referring to GAN_GRID.
 
 ```
 @misc{efatinasab2024gangrid,
