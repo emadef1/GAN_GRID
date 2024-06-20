@@ -63,12 +63,6 @@ cd GAN_GRID
 ```
 <sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work..</sup>
 
-Then, install the required Python packages by running:
-
-```bash
-pip install -r requirements.txt
-```
-
 <p align="right"><a href="#top">(back to top)</a></p>
 <div id="models"></div>
 
