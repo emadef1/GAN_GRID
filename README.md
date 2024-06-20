@@ -27,6 +27,23 @@
   </p>
 </div>
 
+<p align="right"><a href="#top">(back to top)</a></p>
+<div id="citation"></div>
+
+## 🗣️ Citation
+
+Please, cite this work when referring to FaultGuard.
+
+```
+@misc{efatinasab2024gangrid,
+      title={GAN-GRID: A Novel Generative Attack on Smart Grid Stability Prediction}, 
+      author={Emad Efatinasab and Alessandro Brighente and Mirco Rampazzo and Nahal Azadi and Mauro Conti},
+      year={2024},
+      eprint={2405.12076},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CR' full_name='Cryptography and Security' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of cryptography and security including authentication, public key cryptosytems, proof-carrying code, etc. Roughly includes material in ACM Subject Classes D.4.6 and E.3.'}
+}
+```
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><strong>Table of Contents</strong></summary>
