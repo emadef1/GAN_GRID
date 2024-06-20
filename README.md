@@ -44,28 +44,6 @@ Please, cite this work when referring to GAN_GRID.
       primaryClass={id='cs.CR' full_name='Cryptography and Security' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of cryptography and security including authentication, public key cryptosytems, proof-carrying code, etc. Roughly includes material in ACM Subject Classes D.4.6 and E.3.'}
 }
 ```
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><strong>Table of Contents</strong></summary>
-  <ol>
-    <li>
-      <a href="#abstract">Abstract</a>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-    </li>
-    <li>
-      <a href="#models">Models</a>
-    </li>
-    <li>
-      <a href="#baseline">Baseline</a>
-    </li>
-    <li>
-      <a href="#attacks">Attacks</a>
-    </li>
-  </ol>
-</details>
-
 <div id="abstract"></div>
 
 ## 🧩 Abstract
