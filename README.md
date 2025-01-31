@@ -12,7 +12,7 @@
   <p align="center">
     GAN-GRID: A Novel Adversarial Attack on Smart Grid Stability Prediction
     <br />
-    <a href="[https://arxiv.org/pdf/2405.12076](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_19)"><strong>Papaer Available»</strong></a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-70879-4_19"><strong>Papaer Available»</strong></a>
     <br />
     <br />
     <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
