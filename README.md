@@ -35,14 +35,26 @@
 Please, cite this work when referring to GAN_GRID.
 
 ```
-@misc{efatinasab2024gangrid,
-      title={GAN-GRID: A Novel Generative Attack on Smart Grid Stability Prediction}, 
-      author={Emad Efatinasab and Alessandro Brighente and Mirco Rampazzo and Nahal Azadi and Mauro Conti},
-      year={2024},
-      eprint={2405.12076},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CR' full_name='Cryptography and Security' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of cryptography and security including authentication, public key cryptosytems, proof-carrying code, etc. Roughly includes material in ACM Subject Classes D.4.6 and E.3.'}
+@InProceedings{10.1007/978-3-031-70879-4_19,
+author="Efatinasab, Emad
+and Brighente, Alessandro
+and Rampazzo, Mirco
+and Azadi, Nahal
+and Conti, Mauro",
+editor="Garcia-Alfaro, Joaquin
+and Kozik, Rafa{\l}
+and Chora{\'{s}}, Micha{\l}
+and Katsikas, Sokratis",
+title="GAN-GRID: A Novel Generative Attack on Smart Grid Stability Prediction",
+booktitle="Computer Security -- ESORICS 2024",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="374--393",
+abstract="The smart grid represents a pivotal innovation in modernizing the electricity sector, offering an intelligent, digitalized energy network capable of optimizing energy delivery from source to consumer. It hence represents the backbone of the energy sector of a nation. Due to its central role, the availability of the smart grid is paramount and is hence necessary to have in-depth control of its operations and safety. To this aim, researchers developed multiple solutions to assess the smart grid's stability and guarantee that it operates in a safe state. Artificial intelligence and Machine learning algorithms have proven to be effective measures to accurately predict the smart grid's stability. Despite the presence of known adversarial attacks and potential solutions, currently, there exists no standardized measure to protect smart grids against this threat, leaving them open to new adversarial attacks.",
+isbn="978-3-031-70879-4"
 }
+
 ```
 <div id="abstract"></div>
 
